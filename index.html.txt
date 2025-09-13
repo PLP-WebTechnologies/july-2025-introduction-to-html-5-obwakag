@@ -1,0 +1,53 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fluffy Pancakes Recipe</title>
+</head>
+
+<body>
+  <header>
+    <h1>Fluffy Pancakes Recipe</h1>
+    <p>Pancakes are a classic breakfast favorite loved by many for their soft, fluffy texture and sweet, comforting flavor. Whether you enjoy them with maple syrup, fresh berries, or a dollop of whipped cream, these pancakes are perfect for starting the day on a sweet note. Here’s a simple recipe to make light and airy pancakes at home.</p>
+  </header>
+
+  <section>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>1 cup all-purpose flour</li>
+      <li>2 tablespoons sugar</li>
+      <li>2 teaspoons baking powder</li>
+      <li>1/2 teaspoon salt</li>
+      <li>1 cup milk</li>
+      <li>1 large egg</li>
+      <li>2 tablespoons melted butter</li>
+      <li>1 teaspoon vanilla extract</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Instructions</h2>
+    <ol>
+      <li><strong>Mix Dry Ingredients:</strong> In a large bowl, whisk together the flour, sugar, baking powder, and salt.</li>
+      <li><strong>Combine Wet Ingredients:</strong> In a separate bowl, beat the egg, then add the milk, melted butter, and vanilla extract. Mix well.</li>
+      <li><strong>Combine Wet & Dry:</strong> Pour the wet ingredients into the dry ingredients and stir until just combined. Be careful not to overmix—it's okay if there are a few lumps.</li>
+      <li><strong>Cook Pancakes:</strong> Heat a non-stick skillet or griddle over medium heat and lightly grease with butter or oil. Pour 1/4 cup of batter onto the skillet for each pancake. Cook until bubbles form on the surface (about 2-3 minutes), then flip and cook for another 1-2 minutes until golden brown.</li>
+      <li><strong>Serve:</strong> Stack the pancakes on a plate and serve with your favorite toppings!</li>
+    </ol>
+  </section>
+
+  <figure>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="ingredients">
+    <figcaption>ingredients</figcaption>
+  </figure>
+</body>
+
+</html>
+
+
+** end of index.html **
+
